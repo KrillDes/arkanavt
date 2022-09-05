@@ -1,29 +1,29 @@
-# README #
-
-This README would normally document whatever steps are necessary to get your application up and running.
+# READ ME #
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* A simple game engine written in NET. C#
+* V 2.0
 
-### How do I get set up? ###
+### Who developed it? ###
+* KrillDes: https://t.me/KrillDes
+* Sanchez12: https://t.me/uglyboy12
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+### Responsibilities during development ###
+* Joint development, paired programming of the developer KrillDes and Sanchez12 using GitBash and LiveShare tools
 
-### Contribution guidelines ###
+### How do I tune in? ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* It is enough to clone the repository for yourself and run it (you may need to compile the project)
+* Framework 4.8 is required
+* For a more comfortable viewing of the code, it is recommended to use Visual Studio of any version
 
-### Who do I talk to? ###
+### Who should I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* Repo owner or administrator
+* Telegram:
+https://t.me/KrillDes
+https://t.me/uglyboy12
+* Email:
+limon5283@gmail.com
+petya.shabanov@bk.ru
