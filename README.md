@@ -2,7 +2,7 @@
 
 ### What is this repository for? ###
 
-* A simple game engine written in NET. C#
+* A simple game engine written with NET. C#
 * V 2.0
 
 ### Who developed it? ###
